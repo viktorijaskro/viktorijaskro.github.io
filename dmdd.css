@@ -1,3 +1,20 @@
 body {
     background-color: #ccc;
 }
+
+h1 {
+font-family: 'Bitter', serif;
+}
+
+h2 {
+font-family: 'Bitter', serif;
+}
+
+
+p {
+font-family: 'Open Sans', sans-serif;
+}
+
+li {
+font-family: 'Open Sans', sans-serif;
+}
